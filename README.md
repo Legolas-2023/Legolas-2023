@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Legolas-2023/Legolas-2023/assets/151743336/fc1544a8-0929-49a0-aeb8-ff72c49ce66a">
+<img width="100%" rc="https://github.com/Legolas-2023/Legolas-2023/assets/151743336/fc1544a8-0929-49a0-aeb8-ff72c49ce66a">
 
 
 <div align="center">
