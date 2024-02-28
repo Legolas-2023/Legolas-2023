@@ -8,18 +8,18 @@
 
 <div align="center">
 
+  ### Contatos:
+  
 [![Static Badge](https://img.shields.io/badge/Legolas2023-black?style=for-the-badge&logo=github)](https://github.com/Legolas-2023)
 [![Static Badge](https://img.shields.io/badge/Crystian%20Tasca-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/crystian-tasca)
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crystianmattos20@gmail.com)
 
-
 </div>
 
+<div>
 
-<div align="left">
+<p>Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes </p>
 
-<p>Estudante de Tecnologia fromado em `Análise e Desenvolvimento de Sistemas` </p>
-<p>Aperfeiçoando minhas habilidades em front-end</p>
 <p> Estou aprendendo mais sobre javascript e PHP</p>
 
 
