@@ -1,5 +1,10 @@
-<img src="/assets/logo.gif">
 
+
+<div align="center">
+
+<img width="50%" src="/assets/logo.gif">
+
+</div>
 
 <div align="center">
 <a href="https://github.com/Legolas-2023">
