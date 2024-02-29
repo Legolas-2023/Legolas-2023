@@ -75,6 +75,7 @@
 </a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=legolas-2023)](https://github.com/Legolas-2023/github-readme-stats)
 
 
 
