@@ -28,33 +28,39 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300009C?style=for-the-badge&logo=arduino&logoColor=%2300ffff)
-
-<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
-<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-
-<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-                 
+       
 </div>
 
+## Estou Aprendendo:
+<div align="center">
+  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
 
-
-<p> Estou aprendendo mais sobre javascript e PHP</p>
-
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+          
+  
 </div>
 
+## Linguagens mais usadas:
+<div align="center">
+
+<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&layout=compact&langs_count=7&theme=dracula"/>
+
+  
+</div>
+
+## Stats:
 <div align="center">
 <a href="https://github.com/Legolas-2023">
   
-<img width="20%" src="/assets/octocat-1709129042378.png"/>
+<img width="30%" src="/assets/octocat-1709129042378.png"/>
   
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Legolas-2023&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api?username=Legolas-2023&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+
+![Snake animation](https://github.com/Legolas-2023/Legolas-2023/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
-![Snake animation](https://github.com/Legolas-2023/Legolas-2023/blob/output/github-contribution-grid-snake.svg)
