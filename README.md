@@ -8,7 +8,7 @@
 <br><br>
 <div align="center">
 
-## :email:Contatos:email:
+## :email: Contatos :email:
   
 [![Static Badge](https://img.shields.io/badge/Legolas2023-black?style=for-the-badge&logo=github)](https://github.com/Legolas-2023)
 [![Static Badge](https://img.shields.io/badge/Crystian%20Tasca-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/crystian-tasca)
@@ -24,7 +24,7 @@
 <br><br>
 <div align="center">
   
-## :hammer:Tecnologias - Frameworks - Ferramentas:hammer:
+## :hammer: Tecnologias - Frameworks - Ferramentas :hammer:
 
   
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-## :pencil:Aprendendo:pencil:
+## :pencil: Aprendendo :pencil:
   
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-## :computer:Linguagens Mais Utilizadas:computer:
+## :computer: Linguagens Mais Utilizadas :computer:
 
 <a href="https://github.com/Legolas-2023">
   
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-## :star2:Stats:star2:
+## :star2: Stats :star2:
     
 <img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=radical)](https://github.com/Legolas-2023/github-readme-stats)
 
