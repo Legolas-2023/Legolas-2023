@@ -21,20 +21,14 @@
 <p> &nbsp &nbsp &nbsp Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. </p>
 
 
-## Tecnologias Aprendidas:
-<div>
+## Tecnologias e Ferramentas:
+<div align="center">
   
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
-
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300009C?style=for-the-badge&logo=arduino&logoColor=%2300ffff)
 
-
-
-  
 </div>
 
 
