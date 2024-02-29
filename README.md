@@ -29,6 +29,14 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300009C?style=for-the-badge&logo=arduino&logoColor=%2300ffff)
 
+<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+
+<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+
+<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img loading="lazy" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+                 
 </div>
 
 
