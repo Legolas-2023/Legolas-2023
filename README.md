@@ -65,17 +65,13 @@
 <div align="center">
 
 ## :star2:Stats:star2:
-  
-<a href="https://github.com/Legolas-2023">
-  
-<img width="30%" src="/assets/octocat-1709129042378.png"/>
-  
-<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api?username=Legolas-2023&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+<img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=radical)](https://github.com/Legolas-2023/github-readme-stats)
 
-</a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=legolas-2023)](https://github.com/Legolas-2023/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&langs_count=8)
+
 
 
 
