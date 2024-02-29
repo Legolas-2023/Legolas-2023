@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img width="50%" src="/assets/logo.gif"/>
