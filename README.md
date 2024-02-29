@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  ### Contatos:
+## Contatos:
   
 [![Static Badge](https://img.shields.io/badge/Legolas2023-black?style=for-the-badge&logo=github)](https://github.com/Legolas-2023)
 [![Static Badge](https://img.shields.io/badge/Crystian%20Tasca-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/crystian-tasca)
@@ -21,7 +21,7 @@
 <p> &nbsp &nbsp &nbsp Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. </p>
 
 
-## Tecnologias e Ferramentas:
+## Tecnologias - Frameworks - Ferramentas:
 <div align="center">
   
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
