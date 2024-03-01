@@ -4,6 +4,15 @@
 
 </div>
 <br><br>
+
+<div>
+
+<p> &nbsp &nbsp &nbsp Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. </p>
+
+</div>
+
+<br><br>
+
 <div align="center">
 
 ## :email: Contatos :email:
@@ -13,13 +22,9 @@
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crystianmattos20@gmail.com)
 
 </div>
-<br><br>
-<div>
 
-<p> &nbsp &nbsp &nbsp Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. </p>
-
-</div>
 <br><br>
+
 <div align="center">
   
 ## :hammer: Tecnologias - Frameworks - Ferramentas :hammer:
