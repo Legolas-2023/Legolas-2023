@@ -5,11 +5,12 @@
 </div>
 <br><br>
 
-<div>
+<div align="center">
 
-<p> &nbsp &nbsp &nbsp Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. </p>
+<p> &nbsp &nbsp &nbsp <i>Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes.</i> </p>
 
 </div>
+<hr>
 
 <br><br>
 
