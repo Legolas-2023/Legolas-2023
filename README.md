@@ -29,6 +29,9 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300009C?style=for-the-badge&logo=arduino&logoColor=%2300ffff)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode)
+![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2300878F?style=for-the-badge&logo=notepadplusplus&logoColor=%2390E59A)
+
        
 </div>
 
