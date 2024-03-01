@@ -48,11 +48,21 @@
 
 <div align="center">
 
+## :gift:Badges:gift:
+
+<img width="30%" src="/assets/Prancheta_Codificador_Alura.png">
+
+</div>
+
+<br><br>
+
+<div align="center">
+
 ## :computer: Linguagens Mais Utilizadas :computer:
 
 <a href="https://github.com/Legolas-2023">
   
-<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&langs_count=8&theme=tokyonight"/>
 
 </a>
 
@@ -64,11 +74,10 @@
 
 ## :star2: Stats :star2:
     
-<img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=radical)](https://github.com/Legolas-2023/github-readme-stats)
+<img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=tokyonight)](https://github.com/Legolas-2023/github-readme-stats)
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&langs_count=8)
 
 
 
