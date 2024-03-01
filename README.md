@@ -48,7 +48,7 @@
 
 <div align="center">
 
-## :gift:Badges:gift:
+## :gift: Badges :gift:
 
 <img width="30%" src="/assets/Prancheta_Codificador_Alura.png">
 
