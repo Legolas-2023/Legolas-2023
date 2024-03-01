@@ -7,24 +7,20 @@
 
 <div align="center">
 
-<p> &nbsp &nbsp &nbsp <i>Estudante de Tecnologia formado em <b>Análise e Desenvolvimento de Sistemas</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes.</i> </p>
+<p> &nbsp &nbsp &nbsp <i>Olá me chamo Crystian, tenho 20 anos e sou estudante em tecnologia formado em <b>🖥️Análise e Desenvolvimento de Sistemas🖥️</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. Apaixonado pela tecnologia não só pela facilidade mas pelo estruturação de cada código indentado 😅.</i> </p>
+
+📖<i>Estou estudando mais sobre Javascript e comecei meus estudos em PHP para poder manipular e gerenciar os bancos de dados do SQL.</i>
 
 </div>
 <hr>
 
-<br><br>
-
 <div align="center">
 
-## :email: Contatos :email:
-  
-[![Static Badge](https://img.shields.io/badge/Legolas2023-black?style=for-the-badge&logo=github)](https://github.com/Legolas-2023)
-[![Static Badge](https://img.shields.io/badge/Crystian%20Tasca-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/crystian-tasca)
-[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crystianmattos20@gmail.com)
+## 🥇 Badges 🥇
+
+<img width="30%" src="/assets/Prancheta_Codificador_Alura.png">
 
 </div>
-
-<br><br>
 
 <div align="center">
   
@@ -55,15 +51,6 @@
 
 <br><br>
 
-<div align="center">
-
-## :gift: Badges :gift:
-
-<img width="30%" src="/assets/Prancheta_Codificador_Alura.png">
-
-</div>
-
-<br><br>
 
 <div align="center">
 
@@ -85,9 +72,31 @@
     
 <img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=tokyonight)](https://github.com/Legolas-2023/github-readme-stats)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Legolas-2023&row=4&theme=onedark&no-frame=true"/>
+    </a>   
+
+<a href="https://github-readme-streak-stats.herokuapp.com">
+    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Legolas-2023&theme=onedark&hide_border=true"/>
+  </a>
+
 </div>
 
 
+<div align="center">
+
+## :email: Contatos :email:
+  
+[![Static Badge](https://img.shields.io/badge/Legolas2023-black?style=for-the-badge&logo=github)](https://github.com/Legolas-2023)
+[![Static Badge](https://img.shields.io/badge/Crystian%20Tasca-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/crystian-tasca)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crystianmattos20@gmail.com)
+
+</div>
+
+<div align="center">
+  
+
+</div>
 
 
 
