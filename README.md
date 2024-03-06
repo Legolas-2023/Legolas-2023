@@ -103,6 +103,6 @@
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crystianmattos20@gmail.com)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Copyright+%C2%A9%EF%B8%8F+2024+-+Crystian+Tasca" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00009C&random=false&width=435&lines=Copyright+%C2%A9%EF%B8%8F+2024+-+Crystian+Tasca" alt="Typing SVG" />
 
 </div>
