@@ -10,7 +10,7 @@
 </div>
 <br><br>
 
-<div align="center">
+<div align="left">
 
 <p> &nbsp &nbsp &nbsp <i>💻 Formado em Análise e Desenvolvimento de Sistemas
 
@@ -22,8 +22,6 @@
 
 ⚡ Apaixonado por tecnologia, resolução de problemas e criação de projetos práticos.
 .</i> </p>
-
-📖<i>Estou estudando mais sobre Javascript e comecei meus estudos em PHP para poder manipular e gerenciar os bancos de dados do SQL.</i>
 
 </div>
 <hr>
