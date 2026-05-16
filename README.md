@@ -13,9 +13,8 @@
 <div align="left">
 
 <p> &nbsp &nbsp &nbsp <i>
-💻 Formado em Análise e Desenvolvimento de Sistemas
 
-🚀 Interessado em desenvolvimento web, automação de processos e soluções voltadas à tecnologia.
+🚀 Formado em Análise e Desenvolvimento de Sistemas. Interessado em desenvolvimento web, automação de processos e soluções voltadas à tecnologia.
 
 🛠️ Experiência com HTML, CSS, JavaScript, Tailwind CSS, Power BI e integração de sistemas.
 
