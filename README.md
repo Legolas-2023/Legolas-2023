@@ -12,7 +12,8 @@
 
 <div align="left">
 
-<p> &nbsp &nbsp &nbsp <i>💻 Formado em Análise e Desenvolvimento de Sistemas
+<p> &nbsp &nbsp &nbsp <i>
+💻 Formado em Análise e Desenvolvimento de Sistemas
 
 🚀 Interessado em desenvolvimento web, automação de processos e soluções voltadas à tecnologia.
 
