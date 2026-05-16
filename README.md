@@ -97,11 +97,6 @@
   </a>
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Legolas-2023&row=4&theme=tokyonight&no-frame=true"/>
-    </a>   
-
-
 <img src="https://raw.githubusercontent.com/Legolas-2023/Legolas-2023/output/snake.svg" alt="Snake animation" />
 
 ###
