@@ -73,24 +73,7 @@
 
 <div align="center">
 
-## :computer: Linguagens Mais Utilizadas :computer:
-
-<a href="https://github.com/Legolas-2023">
-  
-<img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas-2023&langs_count=8&theme=tokyonight"/>
-
-</a>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
 ## :star2: Stats :star2:
-    
-<img width="20%" src="/assets/octocat-1709129042378.png"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legolas-2023&theme=tokyonight)](https://github.com/Legolas-2023/github-readme-stats)
-
 
 <a href="https://github-readme-streak-stats.herokuapp.com">
     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Legolas-2023&theme=tokyonight&hide_border=true"/>
