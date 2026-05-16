@@ -12,7 +12,16 @@
 
 <div align="center">
 
-<p> &nbsp &nbsp &nbsp <i>Olá me chamo Crystian, tenho 22 anos e sou Analista de Suporte Júnior e estudante em tecnologia formado em <b>🖥️Análise e Desenvolvimento de Sistemas🖥️</b>. Estou aperfeiçoando minhas habilidades em desenvolvimento web para desenvolver artigos interessantes. Apaixonado pela tecnologia não só pela facilidade mas pelo estruturação de cada código indentado 😅.</i> </p>
+<p> &nbsp &nbsp &nbsp <i>💻 Formado em Análise e Desenvolvimento de Sistemas
+
+🚀 Interessado em desenvolvimento web, automação de processos e soluções voltadas à tecnologia.
+
+🛠️ Experiência com HTML, CSS, JavaScript, Tailwind CSS, Power BI e integração de sistemas.
+
+📚 Atualmente estudando JavaScript, backend e aprimorando conhecimentos em desenvolvimento e automações corporativas.
+
+⚡ Apaixonado por tecnologia, resolução de problemas e criação de projetos práticos.
+.</i> </p>
 
 📖<i>Estou estudando mais sobre Javascript e comecei meus estudos em PHP para poder manipular e gerenciar os bancos de dados do SQL.</i>
 
