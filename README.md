@@ -51,6 +51,7 @@
 ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-%2300878F?style=for-the-badge&logo=notepadplusplus&logoColor=%2390E59A)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
 
        
 </div>
